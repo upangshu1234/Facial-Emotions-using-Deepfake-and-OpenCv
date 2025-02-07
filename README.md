@@ -45,7 +45,7 @@ The project requires a pre-trained Haar cascade classifier for face detection. D
 ### 4️⃣ Run the script
 Execute the Python script to start real-time facial emotion detection:
 ```sh
-python emotion.py
+emotion.py
 ```
 The webcam will open, and real-time facial emotion detection will start. Detected faces will be labeled with their corresponding emotions.
 
